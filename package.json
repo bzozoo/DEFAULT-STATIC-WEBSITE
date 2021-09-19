@@ -2,7 +2,7 @@
   "name": "new-static-website",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "/www/index.html",
   "scripts": {
     "start": "serve",
     "build": "echo This is a static template, there is no bundler or bundling involved!"
